@@ -51,7 +51,7 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,swift" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,cpp,swift" />
 </p>
 
 ### Backend & APIs
