@@ -16,6 +16,9 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
   <a href="https://leetcode.com/u/Aaryan__MAHAJAN/">
     <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-orange?style=for-the-badge&logo=leetcode">
   </a>
+  <a href="https://portfolio-self-delta-5icjkoolkd.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -32,154 +35,18 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 
 ---
 
-## 🔭 Currently Exploring
-
-- Agentic AI Systems
-- RAG Architectures
-- Distributed Systems
-- Inference Infrastructure
-- System Design
-- High Performance Backends
-- Real-Time Architectures
-- LLM Evaluation Systems
-- Multi-Agent Workflows
-
----
-
 ## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,swift" />
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
-</p>
-
-### AI / Machine Learning
-
-<p>
 <img src="https://skillicons.dev/icons?i=pytorch" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
 <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai">
-</p>
-
-### Cloud & DevOps
-
-<p>
 <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,githubactions" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-</p>
-
----
-
-## ⭐ Featured Projects
-
-### 🌌 Interactive 3D Portfolio Website
-
-A production-grade personal portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and Three.js. Designed as an immersive digital experience showcasing projects, achievements, experience, education, certifications, and technical interests through advanced animations and interactive 3D storytelling.
-
-Features:
-
-- Interactive Three.js scenes
-- Scroll-based storytelling
-- Advanced motion design
-
-Tech: Next.js • TypeScript • Tailwind CSS • Framer Motion • Three.js • React Three Fiber • GSAP • Vercel
-
-🔗 https://portfolio-self-delta-5icjkoolkd.vercel.app/
-
-### 📝 Jack House
-
-AI-powered collaborative note-taking platform with:
-
-- Real-time synchronization
-- AI-generated summaries
-- Secure authentication
-- Collaborative editing
-
-Tech: Next.js • Convex • Clerk • OpenAI
-
-🔗 https://jack-house.vercel.app/
-
----
-
-### 🎨 Team Building Application
-
-Real-time collaborative whiteboard supporting concurrent users with low-latency synchronization.
-
-Tech: Next.js • TypeScript • Liveblocks
-
-🔗 https://team-a-holic.vercel.app/
-
----
-
-### 💬 Homis
-
-Real-time communication platform featuring:
-
-- WebSocket messaging
-- Video conferencing
-- Role-based permissions
-- Moderation tools
-
-Tech: WebSockets • Prisma • LiveKit
-
-🔗 https://github.com/Aaryan123456679/Homis
-
----
-
-## 📈 Engineering Interests
-
-I enjoy building systems involving:
-
-- Scalability
-- Concurrency
-- Distributed Architectures
-- AI Integration
-- Performance Optimization
-- Production Reliability
-- Event-Driven Systems
-- Backend Infrastructure
-
-Most exciting problems:
-
-text AI Systems × Backend Engineering × Distributed Computing 
-
----
-
-## 🏅 Highlights
-
-- Amazon ML School'24
-- 700+ LeetCode Problems
-- AI Agent Developer @ Fast Retailing
-- SWE Intern @ Editorialist YX
-- SWE Intern @ Zimyo
-
----
-
-## 🌐 Connect
-
-<p align="center">
-<a href="mailto:aaryanmhjn@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/aaryanmahajan/">LinkedIn</a> •
-<a href="https://leetcode.com/u/Aaryan__MAHAJAN/">LeetCode</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,swift" />
 </p>
