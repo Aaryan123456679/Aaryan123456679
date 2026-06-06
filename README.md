@@ -93,6 +93,20 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 
 ## ⭐ Featured Projects
 
+### 🌌 Interactive 3D Portfolio Website
+
+A production-grade personal portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and Three.js. Designed as an immersive digital experience showcasing projects, achievements, experience, education, certifications, and technical interests through advanced animations and interactive 3D storytelling.
+
+Features:
+
+- Interactive Three.js scenes
+- Scroll-based storytelling
+- Advanced motion design
+
+Tech: Next.js • TypeScript • Tailwind CSS • Framer Motion • Three.js • React Three Fiber • GSAP • Vercel
+
+🔗 https://portfolio-self-delta-5icjkoolkd.vercel.app/
+
 ### 📝 Jack House
 
 AI-powered collaborative note-taking platform with:
