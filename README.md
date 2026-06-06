@@ -26,7 +26,7 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 - 🇯🇵 Former AI Agent Developer Intern @ Fast Retailing, Japan
 - 📱 Software Engineering Intern @ Editorialist
 - 🧠 Amazon ML School'24
-- 🏆 President, Nakshatra (Mathematics & Physics Society)
+- 🏆 IQC 2026 Gold researcher | Qualified for round 2
 - 💻 700+ Problems Solved on LeetCode
 - ⚡ Passionate about AI Systems, Distributed Systems, and Backend Engineering
 
@@ -93,14 +93,6 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 
 ## ⭐ Featured Projects
 
-### 🤖 Enterprise Agentic RAG System
-
-Designed and deployed a production-grade agentic retrieval system on GCP that reduced document access time by 70% and saved 120+ engineering man-days per month.
-
-Tech: GCP • RAG • Vector Search • LLMs • APIs
-
----
-
 ### 📝 Jack House
 
 AI-powered collaborative note-taking platform with:
@@ -160,24 +152,13 @@ text AI Systems × Backend Engineering × Distributed Computing
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaryan123456679&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan123456679&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏅 Highlights
 
 - Amazon ML School'24
 - 700+ LeetCode Problems
 - AI Agent Developer @ Fast Retailing
-- SWE Intern @ Editorialist
-- President, Nakshatra Society
-- Vice President, IEEE NSUT
-- Vice President, Product Management & Analytics Society
+- SWE Intern @ Editorialist YX
+- SWE Intern @ Zimyo
 
 ---
 
@@ -187,4 +168,4 @@ text AI Systems × Backend Engineering × Distributed Computing
 <a href="mailto:aaryanmhjn@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/aaryanmahajan/">LinkedIn</a> •
 <a href="https://leetcode.com/u/Aaryan__MAHAJAN/">LeetCode</a>
-</p
+</p>
