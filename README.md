@@ -48,5 +48,5 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,swift" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,swift,go" />
 </p>
