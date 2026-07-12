@@ -38,7 +38,7 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,k8s" />
 <img src="https://skillicons.dev/icons?i=pytorch" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
