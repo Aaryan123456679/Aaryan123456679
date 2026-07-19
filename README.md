@@ -27,7 +27,7 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
 
 - 🎓 B.Tech Computer Science @ NSUT (CGPA: 8.53)
 - 🇯🇵 Former AI Agent Developer Intern @ Fast Retailing, Japan
-- 📱 Software Engineering Intern @ Editorialist
+- 📱 Software Engineer @ Editorialist
 - 🧠 Amazon ML School'24
 - 🏆 IQC 2026 Gold researcher | Qualified for round 2
 - 💻 700+ Problems Solved on LeetCode
