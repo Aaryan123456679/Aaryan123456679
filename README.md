@@ -16,7 +16,7 @@ Building scalable systems, AI-powered applications, and real-time infrastructure
   <a href="https://leetcode.com/u/Aaryan__MAHAJAN/">
     <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-orange?style=for-the-badge&logo=leetcode">
   </a>
-  <a href="https://portfolio-self-delta-5icjkoolkd.vercel.app/">
+  <a href="https://portfolio.aaryanmahajan.com/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
